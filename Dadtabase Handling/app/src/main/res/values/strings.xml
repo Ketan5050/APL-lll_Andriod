@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Database App</string>
+    <string name="hint_enter_name">Enter Name</string>
+    <string name="btn_insert">Insert</string>
+    <string name="btn_view_data">View Data</string>
+    <string name="text_results">Results:</string>
+    <string name="text_no_data">No data available</string>
+    <string name="error_enter_name">Please enter a name</string>
+    <string name="msg_inserted">Data Inserted Successfully</string>
+    <string name="msg_failed">Insertion Failed</string>
+</resources>
